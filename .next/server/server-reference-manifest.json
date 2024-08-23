@@ -1,0 +1,30 @@
+{
+  "node": {
+    "dccb7f2749f0fa227b99653d333555bfa1941638": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CAIAzureChat%5C%5Cfeatures%5C%5Ccommon%5C%5Cnavigation-helpers.ts%22%2C%5B%22RedirectToPage%22%2C%22RevalidateCache%22%2C%22RedirectToChatThread%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "e9fd22f2484ae49795c122fb81003023061c2fbf": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CAIAzureChat%5C%5Cfeatures%5C%5Ccommon%5C%5Cnavigation-helpers.ts%22%2C%5B%22RedirectToPage%22%2C%22RevalidateCache%22%2C%22RedirectToChatThread%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "f62d137e5e864095cacd48a74108953f64271b6d": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CProjects%5C%5CAIAzureChat%5C%5Cfeatures%5C%5Ccommon%5C%5Cnavigation-helpers.ts%22%2C%5B%22RedirectToPage%22%2C%22RevalidateCache%22%2C%22RedirectToChatThread%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "3F9KSG3PJq7MTuE4uBuScOuMXph9dtppfoQMaD3bbLc="
+}
